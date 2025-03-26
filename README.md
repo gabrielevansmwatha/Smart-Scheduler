@@ -2,6 +2,7 @@
 This project is a Smart Event Scheduler built using Flask (Backend) and React (Frontend) to efficiently manage and schedule events. The system supports fixed, recurring, and flexible events, ensuring that event conflicts are automatically detected and resolved.
 
 Key Features:
+
 ✅ Fixed Events – Schedule events at a specific time without modifications.
 
 ✅ Recurring Events – Automatically repeat events based on a defined frequency.
